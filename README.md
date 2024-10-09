@@ -15,7 +15,7 @@ To run the Expense Tracker application locally, follow these steps:
 Frontend: React, Vite
 Backend: Node.js with Express.js
 
-## Security
+## Security:
 Session Management: The application uses a session ID for tracking user sessions.
 
 ## Future Enhancements:
