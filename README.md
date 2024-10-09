@@ -32,7 +32,7 @@ Session Management: The application uses a session ID for tracking user sessions
 4. Build the Application: npm run build
 5. Start the Server: npm start (http://localhost:3000).
 6. Run the front end: npm run dev (http://localhost:5173).
-   Note: After starting the server, open your web browser and navigate to http://localhost:3000. In another terminal, run the front end for hot reloading and easier development. You would access the front end typically at a different port. 
+- Note: After starting the server, open your web browser and navigate to http://localhost:3000. In another terminal, run the front end for hot reloading and easier development. You would access the front end typically at a different port. 
 
 ## Additional Information:
 Feel free to reach out to me at sherinrajkumariis@gmail.com for any inquiries or collaborations.
