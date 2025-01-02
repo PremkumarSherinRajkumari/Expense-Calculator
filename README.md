@@ -11,6 +11,7 @@ Error Reporting: Clear feedback for users when errors occur.
 
 ## Libraries Used:
 Frontend: React, Vite
+
 Backend: Node.js with Express.js
 
 ## Security:
