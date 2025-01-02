@@ -8,8 +8,6 @@ Transaction Management: Easily add, edit, or delete transactions.
 Balance Calculation: The application calculates the current balance based on user transactions.
 Input Validation: Both front-end and back-end validation to ensure data integrity.
 Error Reporting: Clear feedback for users when errors occur.
-Getting Started
-To run the Expense Tracker application locally, follow these steps:
 
 ## Libraries Used:
 Frontend: React, Vite
