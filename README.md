@@ -10,8 +10,8 @@ Input Validation: Both front-end and back-end validation to ensure data integrit
 Error Reporting: Clear feedback for users when errors occur.
 
 ## Libraries Used:
--- Frontend: React, Vite
--- Backend: Node.js with Express.js
+- Frontend: React, Vite
+- Backend: Node.js with Express.js
 
 ## Security:
 Session Management: The application uses a session ID for tracking user sessions.
